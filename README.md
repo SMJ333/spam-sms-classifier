@@ -1,3 +1,10 @@
+
+# spam-sms-classifier
+spam or non spam classifier classification using python machine learning technique
+https://colab.research.google.com/drive/1M3plKg9wWZo-oy0r_xuRDTx2RBfaV0ix?usp=drive_link
+
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
